@@ -1,4 +1,8 @@
-# udacity-capstone-project
+# Machine Learning Engineer Nanodegree
+### Udacity Capston Project: Home Credit
+Author: Omar Villa
+Date: November 2nd 2018
+
 
 ### Competition Data Tables
 

@@ -10,10 +10,17 @@ Python 3.6.5
 
 ### Python Modules
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 visuals (included in as library)
+
 IPython
+
 sklearn
+
 csv
